@@ -1,1 +1,1 @@
-Contain pricing of American put option via LSMC method
+The notebook contains pricing of American put option via LSMC method
